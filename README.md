@@ -20,8 +20,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: VARNIKA.P
-RegisterNumber:  212223240170
+Developed by: SAKTHIVEL M
+RegisterNumber:  212222240088
 */
 import chardet
 file='/content/spam.csv'
